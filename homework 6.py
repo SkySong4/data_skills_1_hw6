@@ -4,7 +4,7 @@
 
 # YOUR NAME HERE：Tianhua Song
 
-# YOUR CANVAS NAME HERE：tianhuas
+# YOUR CANVAS NAME HERE：Tianhua Song
 # YOUR GITHUB USER NAME HERE：SkySong4
 
 # Due date: Monday May 8th before midnight
